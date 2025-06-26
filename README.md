@@ -4,9 +4,9 @@ This project analysed the adoption patterns of AI tools across countries, indust
 
 ## Dataset Overview
 The dataset included the following key fields:
-•	Country, Industry, Company Size, User Age Group
-•	AI Tool Used, Adoption Rate (%), Daily Active Users
-•	Year (2023 & 2024)
+1. Country, Industry, Company Size, User Age Group
+2. AI Tool Used, Adoption Rate (%), Daily Active Users
+3. Year (2023 & 2024)
 
 ## Key Analyses Performed
 1. Total Record Count: Determined the total number of data entries to validate dataset size and ensure robust analysis.
